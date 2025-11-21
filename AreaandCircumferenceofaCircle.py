@@ -1,6 +1,6 @@
 import math
 
-r = 2  # cm
+r = 2
 
 C = 2 * math.pi * r
 A = math.pi * r**2
